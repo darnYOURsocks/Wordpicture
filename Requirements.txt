@@ -1,0 +1,6 @@
+streamlit==1.36.0
+Pillow==10.4.0
+imageio==2.35.1
+imageio-ffmpeg==0.5.1
+reportlab==4.2.2
+networkx==3.3
